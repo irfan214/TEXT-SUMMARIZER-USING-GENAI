@@ -1,0 +1,2 @@
+# TEXT-SUMMARIZER-USING-GENAI
+super 10lpa project
